@@ -1,0 +1,80 @@
+Métricas - medidas que focam no comportamento do usuário e não no resultado da estratégia.
+Ex = Págs que o usuário acessou, vendas realizadas...
+
+KPS - Chaves para indicadores de performance
+
+
+
+KPI = 
+OBJETIVO
+MENSURAÇÃO
+OTIMIZAÇÃO
+ESTRATÉGIA
+PERFORMANCE
+INDICADORES
+AVALIAÇÃO
+
+DEFINIR OBJETIVO DE UM KPI = Usamos a Metodologia SMART
+S - Especifico
+M = Mensurável
+A = Atingível
+R = Relevante
+T = Temporizável
+
+
+TIPOS DE KPI
+KPI Primário (Saber se as estratégias adotadas estão ajudando)
+  - Tráfego
+  - Receita de compra
+  - Receita total
+
+
+KPI Secundário (Mais detalhados e reforçar os KPIS primários)
+  - Assinantes de blog
+  - Origem do tráfego (orgânico, pago, email, redes sociais)
+  - Visitas recorrentes no blog
+  - Custo por visitante
+
+
+KPI PRÁTICO (Explicar os resultados apontados nos outros dois tipos, mais detalhado ainda)
+  - Número de visualizações de posts em redes
+  - Quantidade de pessoas que foram impactadas por uma publicação
+  - Palavras chaves que foram eficazes
+  - Produtos mais procurados
+
+
+MODELOS DE KPI
+(devem ser usados de acordo com o interesse de quem analisa os resultados)
+  - KPIs de capacidade
+  - KPIs de produtividade
+  - KPIs de qualidade
+  - KPIs estratégicos
+
+
+Etapas do processo decisório
+1. Identificação do problema
+2. Coleta de dados
+3. Identificação das alternativas
+4. Escolha das alternativas
+5. Decisão e acompanhamento
+
+
+Ferramentas big data: AWS | AZURE | GOOGLE CLOUD 
+HADOOP = ESCALÁVEL, CENTRALIZA OS DADOS E FAZ O PROCESSAMENTO EM PARALELO, UTILIZA VARIAS MÁQUINAS - MUITO UTILIZADO PRO GERENCIAMENTO
+CLUSTERS = VARIOS COMPUTADORES LIGADOS EM REDES, DIVIDE O PROCESSAMENTO E VARIAS MAQUINAS FAZEM ISSO
+IMPORTANCIA:
+ARMAZENA E PROCESSA GRANDES QUANTIDADES DE DADOS E RAPIDAMENTE
+PODER COMPUTACIONAL
+TOLERÂNCIA A FALHAS
+FLEXIBILIDADE
+CUSTO BAIXO
+ESCALABILIDADE
+LINGUAGEM PRA USAR ELA = MapReduce
+
+Hadoopo está sendo utilizado para:
+Armazenamento e arquivo de dados de baixo custo
+Data Lake
+Iot e Hadoop
+Complementar seu banco de dados
+
+Data Lake = Centraliza nosso banco de dados 
